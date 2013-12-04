@@ -3,7 +3,7 @@
   <Role name="MvcApplication2">
     <Instances count="1" />
     <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=portalvhds011kpl3vx42km;AccountKey=7MBH3e7YEVymLeDya7og8flTxFYgFueiV8X4uuE4sOhbijQy9VqNoYUQA9UMb9YgAXQBVwW+8A+Hf7LteEin+w==" />
     </ConfigurationSettings>
   </Role>
 </ServiceConfiguration>
