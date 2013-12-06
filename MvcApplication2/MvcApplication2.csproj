@@ -185,6 +185,7 @@
     <Compile Include="Controllers\AppTestController.cs" />
     <Compile Include="Controllers\AzurePublishController.cs" />
     <Compile Include="Controllers\BuidTestController.cs" />
+    <Compile Include="Controllers\CruiseTestAppController.cs" />
     <Compile Include="Controllers\CruiseTestController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\TestController.cs" />
@@ -312,6 +313,7 @@
     <Content Include="Views\BuidTest\Index.cshtml" />
     <Content Include="Views\AppTest\Index.cshtml" />
     <Content Include="Views\AzurePublish\Index.cshtml" />
+    <Content Include="Views\CruiseTestApp\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
